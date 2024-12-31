@@ -13,9 +13,9 @@ public class Main {
         while (running) {
             System.out.println("\nWelcome to the Guess the Number Game!");
             System.out.println("Choose a difficulty level:");
-            System.out.println("1. Easy (1-10)");
-            System.out.println("2. Medium (1-50)");
-            System.out.println("3. Hard (1-100)");
+            System.out.println("1. Easy");
+            System.out.println("2. Medium");
+            System.out.println("3. Hard");
             System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
 
